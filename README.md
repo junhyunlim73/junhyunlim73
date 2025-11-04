@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=limjh0703)](https://solved.ac/limjh0703)
 
-
-🧠 Algorithm Study Log\n
 https://github.com/junhyunlim73/codingTest
+

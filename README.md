@@ -21,4 +21,9 @@ https://github.com/junhyunlim73/codingTest
 
 
 # 집밥메이커
-https://limjh0703.tistory.com/1
+소개: https://limjh0703.tistory.com/1
+
+# 자격증
+정보처리기사
+SQLD
+OCP

@@ -21,4 +21,4 @@ https://github.com/junhyunlim73/codingTest
 
 
 # 집밥메이커
-https://github.com/sku-sw-academy/jipbab-maker-spring
+https://limjh0703.tistory.com/1

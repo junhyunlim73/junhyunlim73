@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 # 알고리즘 로그
 https://github.com/junhyunlim73/codingTest
 
-
+ &nbsp;
 # 집밥메이커
 소개: https://limjh0703.tistory.com/1
 
+ &nbsp;
 # 자격증
-정보처리기사
-SQLD
+정보처리기사  
+&nbsp;
+SQLD  
+&nbsp;
 OCP
